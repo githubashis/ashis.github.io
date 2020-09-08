@@ -62,7 +62,7 @@ div.img_wrap.img1 {
 	background: url("HIM1.jpg");
 }
 div.img_wrap.img1 p:after {
-	content: "HIM1";
+	content: "The Place Where I Work!";
 }
 div.img_wrap.img2 {
 	width: 144px;
@@ -73,10 +73,10 @@ div.img_wrap.img2 p:after {
 }
 div.img_wrap.img3 {
 	width: 225px;
-	background: url("HIM3.jpg");
+	background: url("HIM5.jpg");
 }
 div.img_wrap.img3 p:after {
-	content: "HIM3";
+	content: "HIM5";
 }
 div.img_wrap.img4 {
 	width: 357px;
@@ -87,10 +87,10 @@ div.img_wrap.img4 p:after {
 }
 div.img_wrap.img5 {
 	width: 327px;
-	background: url("HIM5.jpg");
+	background: url("HIM3.jpg");
 }
 div.img_wrap.img5 p:after {
-	content: "HIM5";
+	content: "HIM3";
 }
 div.banner p {
 	position: absolute;
