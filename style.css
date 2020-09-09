@@ -69,28 +69,28 @@ div.img_wrap.img2 {
 	background: url("HIM2.jpg");
 }
 div.img_wrap.img2 p:after {
-	content: "HIM2";
+	content: "My Branch!";
 }
 div.img_wrap.img3 {
 	width: 225px;
 	background: url("HIM5.jpg");
 }
 div.img_wrap.img3 p:after {
-	content: "HIM5";
+	content: "My Departmental Chamber!";
 }
 div.img_wrap.img4 {
 	width: 357px;
 	background: url("HIM4.jpg");
 }
 div.img_wrap.img4 p:after {
-	content: "HIM4";
+	content: "Honorable President of India visiting our branch!";
 }
 div.img_wrap.img5 {
 	width: 327px;
 	background: url("HIM3.jpg");
 }
 div.img_wrap.img5 p:after {
-	content: "HIM3";
+	content: "Our College's Administrative Building!";
 }
 div.banner p {
 	position: absolute;
