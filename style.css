@@ -170,10 +170,12 @@ body.home div.main_item > * {
 	display: inline-block;
 }
 body.home p.intro {
+	text-align: justify;
+    text-justify: inter-word;
 	margin: 10px;
 	margin-left: 50px;
 	margin-top: 0px;
-	font-size: 15px;
+	font-size: 18px;
 	width: 410px;
 }
 body.home div.contact {
